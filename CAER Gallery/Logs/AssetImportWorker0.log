@@ -1052,3 +1052,54 @@ System memory in use after: 165.7 MB.
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1687.
 Total: 1.875340 ms (FindLiveObjects: 0.162150 ms CreateObjectMapping: 0.035667 ms MarkObjects: 1.621443 ms  DeleteObjects: 0.055060 ms)
 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 143.8 MB.
+System memory in use after: 143.9 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1687.
+Total: 2.406927 ms (FindLiveObjects: 0.199388 ms CreateObjectMapping: 0.107883 ms MarkObjects: 2.050641 ms  DeleteObjects: 0.048071 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 43361.241906 seconds.
+  path: Assets/FirstPersion AIO Pack/DemoScene/Sounds/music
+  artifactKey: Guid(3a3b9bc4bed674800a398c051bfae58e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstPersion AIO Pack/DemoScene/Sounds/music using Guid(3a3b9bc4bed674800a398c051bfae58e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b342de2550cbaa215c794518ca3f98f') in 0.017468 seconds
+  Import took 0.035930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.699098 seconds.
+  path: Assets/FirstPersion AIO Pack/DemoScene/Sounds/music/Dee%20Yan-Key%20-%20Forlorn%20City.mp3
+  artifactKey: Guid(222016d9b99ad40879df3334505638bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FirstPersion AIO Pack/DemoScene/Sounds/music/Dee%20Yan-Key%20-%20Forlorn%20City.mp3 using Guid(222016d9b99ad40879df3334505638bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a01902964b23a1492db1445b14f16edf') in 0.876977 seconds
+  Import took 0.883664 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002275 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.31 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.127 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1111 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 170.2 MB.
+System memory in use after: 170.2 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1691.
+Total: 2.094339 ms (FindLiveObjects: 0.205372 ms CreateObjectMapping: 0.038511 ms MarkObjects: 1.782056 ms  DeleteObjects: 0.067502 ms)
+
